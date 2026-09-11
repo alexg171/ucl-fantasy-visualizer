@@ -1,0 +1,116 @@
+Throughout the season, your players will score points based on their real-life performances. Some actions are rewarded the same amount of points regardless of the player’s position, others vary depending on where each player plays.
+
+All data will be taken from the official match reports.
+
+Action	Points
+All players	
+Appearance	1
+60 mins on pitch	1
+Goals from outside the box	1
+Assist	3
+Every 3 balls recovered	1
+Player of the Match award	3
+Winning penalty*	2
+Conceding penalty*	-1
+Missing penalty	-2
+Yellow card	-1
+Red card	-3
+Own goal	-2
+Goalkeepers	
+Scoring a goal	6
+Saving a penalty	5
+Clean sheet	4
+Every 3 saves	1
+Every 2 goals conceded	-1
+Defenders	
+Scoring a goal	6
+Clean sheet	4
+Every 2 goals conceded	-1
+Midfielders	
+Scoring a goal	5
+Clean sheet	1
+Forwards	
+Scoring a goal	4
+*When a penalty is awarded for handball, no points are awarded
+
+Points are usually calculated within 3 hours of the final whistle of the last match of the day – and some stats may be adjusted during this time based on information from referees or data providers.
+
+In the case of balls recovered, we'll calculate this stat when we calculate your points at the end of the day. There may be some discrepancy between the data in Fantasy Football and other sources – but once we calculate this number as part of the daily points calculation, it won't be adjusted afterwards.
+
+Bear in mind that once your points have been calculated, they can't be adjusted.
+
+Minutes played
+Every player who plays in any given match scores one point. Players score an extra point when they play 60 minutes, excluding injury time.
+
+Minutes played will be confirmed when your points are calculated at the end of each day.
+
+Assists
+A player gets points for an assist whenever he plays the final pass, cross, header or shot which leads to a goal. This also applies to set plays (corners, free-kicks and throw-ins).
+
+Players also get points for an assist if a goal is scored on the rebound after a shot against the post or bar – or if the rebound comes off an opposing player.
+
+When it comes to passes, it must be deemed an intentional pass to count as an assist. Miscontrolled touches or other unintentional passes that go straight to a team-mate are not counted.
+
+An assist can be made with any legal part of the body as long as it's deemed intentional.
+
+If the attacking player's pass takes a small deflection which doesn't significantly change the direction of the pass, it will still be given as an assist.
+
+They also get points for an assist when their pass, shot or cross leads to an own goal.
+
+Players that win a penalty don't get points for an assist – instead, they get 2 points for winning the penalty (except when the penalty is awarded for handball).
+
+When a goal is scored from a solo run or dribble, no player is credited with the assist.
+
+Only one player can get points for an assist for any one goal.
+
+Clean sheets
+Players get points for a clean sheet when they play at least 60 minutes excluding added time and their team doesn’t concede a goal while they are on the pitch.
+
+If a player has already been subbed off when their team concedes a goal, that player’s clean sheet bonus won't be affected.
+
+Player of the Match award
+At the end of every Champions League match, one player is given the Player of the Match award. This award is decided by UEFA's technical observer panel.
+
+When a player wins this award, he’ll score an extra 3 points for that matchday.
+
+Red cards
+If a player gets a red card, they’ll continue to be penalised for goals conceded by their team after they’ve been sent off.
+
+If a player gets a yellow card and then a red card, they’ll only be penalised for the red card.
+
+If your captain gets a red card, you can transfer the captaincy to one of your other starting XI, as long as your new captain hasn’t already played yet within the matchday.
+
+You can't sub off players who get a red card.
+
+Extra time and penalties
+Players will keep scoring points throughout extra time. However, players who play 120 minutes can't get double appearance or clean sheet points (2 x 60 minutes).
+
+If a match goes to penalties, no points will be scored during the shoot-out.﻿
+
+UEFA Champions League Fantasy rules
+15-player squad
+Goalkeepers x 2, Defenders x 5, Midfielders x 5, Forwards x 3
+€100m budget (rising to €105m after league phase)
+Maximum of 3 players per team in league phase
+2 free transfers every matchday in league phase
+Substitutions within a matchday
+Change captain to maximise points total
+
+UEFA Champions League Fantasy rules
+15-player squad
+Goalkeepers x 2, Defenders x 5, Midfielders x 5, Forwards x 3
+€100m budget (rising to €105m after league phase)
+Maximum of 3 players per team in league phase
+2 free transfers every matchday in league phase
+Substitutions within a matchday
+Change captain to maximise points total
+How do you score points in Champions League Fantasy?
+There are lots of ways to score points in Champions League Fantasy, but here are some of the key ones:
+
+Goals (4 points for forwards, 5 points for midfielders, 6 points for defenders and goalkeepers)
+Assists (3 points per player)
+Every three balls recovered (1 point)
+Clean sheets (4 points for goalkeepers and defenders)
+Player of the Match (3 points)
+Captain
+One of the most important ways managers can increase their Fantasy total is the chance to change captain within matchdays. Managers can make substitutions between Tuesday and Wednesday if players in your starting line-up don't score as heavily as you hope and you can switch captains between days too – with double points for the player who finishes the matchday with the captain's armband, that gives managers a fantastic opportunity to register big scores.
