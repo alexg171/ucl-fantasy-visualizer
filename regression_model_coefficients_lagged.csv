@@ -1,0 +1,27 @@
+Position,Variable,Description,Beta,StdErr_HC1,z,p,CI_low,CI_high,Significant_at_05
+GK,const,Intercept,9.1496,4.0284,2.271,0.0231,1.254,17.045,True
+GK,dom_sv,Domestic saves,0.0019,0.0365,0.051,0.9593,-0.07,0.073,False
+GK,dom_cs,Domestic clean sheets,0.9502,0.3053,3.113,0.0019,0.352,1.548,True
+GK,dom_rt,Domestic avg. rating,-0.6768,0.6811,-0.994,0.3204,-2.012,0.658,False
+GK,league_strength,League's UEFA coefficient (domestic input season),0.1127,0.2561,0.44,0.6598,-0.389,0.615,False
+DEF,const,Intercept,-2.8854,7.8798,-0.366,0.7142,-18.33,12.559,False
+DEF,dom_g,Domestic goals,0.86,0.3793,2.267,0.0234,0.117,1.603,True
+DEF,dom_a,Domestic assists,0.5147,0.3376,1.524,0.1274,-0.147,1.176,False
+DEF,dom_tk,Domestic tackles,0.0073,0.0349,0.209,0.8348,-0.061,0.076,False
+DEF,dom_cs,Domestic clean sheets,0.2497,0.1343,1.859,0.063,-0.014,0.513,False
+DEF,dom_rt,Domestic avg. rating,1.1416,1.1791,0.968,0.333,-1.169,3.453,False
+DEF,league_strength,League's UEFA coefficient (domestic input season),0.1704,0.0909,1.874,0.0609,-0.008,0.349,False
+MID,const,Intercept,-5.1714,2.4818,-2.084,0.0372,-10.036,-0.307,True
+MID,dom_g,Domestic goals,0.8556,0.156,5.485,0.0,0.55,1.161,True
+MID,dom_a,Domestic assists,0.6054,0.217,2.79,0.0053,0.18,1.031,True
+MID,dom_tk,Domestic tackles,0.0389,0.028,1.39,0.1646,-0.016,0.094,False
+MID,dom_cs,Domestic clean sheets,0.0549,0.1541,0.356,0.7215,-0.247,0.357,False
+MID,dom_rt,Domestic avg. rating,0.8319,0.4414,1.885,0.0595,-0.033,1.697,False
+MID,league_strength,League's UEFA coefficient (domestic input season),0.2278,0.0949,2.402,0.0163,0.042,0.414,True
+FWD,const,Intercept,-3.0867,3.1224,-0.989,0.3229,-9.206,3.033,False
+FWD,dom_g,Domestic goals,0.7585,0.2193,3.46,0.0005,0.329,1.188,True
+FWD,dom_a,Domestic assists,-0.1282,0.4479,-0.286,0.7747,-1.006,0.75,False
+FWD,dom_tk,Domestic tackles,-0.0235,0.1321,-0.178,0.8586,-0.282,0.235,False
+FWD,dom_cs,Domestic clean sheets,0.895,0.5188,1.725,0.0845,-0.122,1.912,False
+FWD,dom_rt,Domestic avg. rating,0.3568,0.413,0.864,0.3877,-0.453,1.166,False
+FWD,league_strength,League's UEFA coefficient (domestic input season),0.2473,0.1462,1.692,0.0907,-0.039,0.534,False
